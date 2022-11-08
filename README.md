@@ -8,9 +8,9 @@ USA Tourist Guide, with a frontend built in React & Redux and a backend built in
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO]() here!!
+Check out [FRONTEND LIVE DEMO](https://WonderLust-Frontend.jstackshubham.repl.co) here!!
 
-Check out [API LIVE DEMO](https://backend-sd-wd.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://WonderLustSD-Backend.jstackshubham.repl.co/) here!!
 
 ## Tech used
 
